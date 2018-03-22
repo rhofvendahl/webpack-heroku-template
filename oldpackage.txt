@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode development",
-    "start": "npm run build; webpack-dev-server --open --mode development",
-    "express": "webpack; node server.js",
+    "start": "webpack; node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
