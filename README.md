@@ -1,4 +1,4 @@
-## Express-Webpack Template
+## Webpack-Heroku Template
 
 A template for running an Express.js server on Heroku with Webpack, along with ESLint, Babel, Karma, Jasmine & other amenities.
 
