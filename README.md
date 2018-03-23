@@ -1,12 +1,12 @@
 ## Express-Webpack Template
 
-A template for running an Express.js server on Heroku, along with ESLint, Babel, Karma, Jasmine & other amenities.
+A template for running an Express.js server on Heroku with Webpack, along with ESLint, Babel, Karma, Jasmine & other amenities.
 
 ## Installing
 
 ```
 git clone https://github.com/rhofvendahl/webpack-heroku-template
-cd express-webpack-template
+cd webpack-heroku-template
 
 npm install
 ```
@@ -23,7 +23,7 @@ and visit http://localhost:8080
 
 To run on Heroku:
 ```
-#you will need to make a heroku account if you have not already
+#you will need to make a Heroku account if you have not already
 heroku login
 heroku create
 git push heroku master
