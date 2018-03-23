@@ -29,3 +29,5 @@ heroku create
 git push heroku master
 heroku open
 ```
+
+Adapted from https://github.com/darde/phaser-heroku-webpack-es6
